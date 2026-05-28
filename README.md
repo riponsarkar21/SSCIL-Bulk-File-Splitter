@@ -165,3 +165,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Smart Brand Column detection logic.
 - Error handling for "Variable not defined" and missing sheets.
 ```
+
+https://chat.z.ai/s/72329f29-1876-4811-a5c8-d2b351e3cd78 for more details
